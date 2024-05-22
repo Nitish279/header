@@ -1,0 +1,16 @@
+$background-color: #001eff;
+$text-color: white;
+$padding: 10px;
+$font-weight: bold;
+$letter-spacing: 1px;
+
+.header-wrapper {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: $background-color;
+  color: $text-color;
+  padding: $padding;
+  font-weight: $font-weight;
+  letter-spacing: $letter-spacing;
+}
